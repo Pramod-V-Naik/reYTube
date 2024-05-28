@@ -1,5 +1,5 @@
 # reYTube
-"Where Videos Speak Concisely! Unravel the essence of any video instantly with our automatic transcript summarization feature. Dive into the future of video creation which empowers creators to do craft polished, professional content effortlessly using Virtual green screen. Unleash your imagination and revolutionize your videos with reYTube!"
+" 'reYTube', A YouTube clone built with React.js that replicates the core functionalities of the popular video sharing platform. This project features different category of vdo section for example sports,news,gaming etc.Through the API framework will access the videos!!."
 # REFERENCES
 "1.YouTube - GreatStackDev Channel: https://www.youtube.com/@GreatStackDev
 2.YouTube Video - "ReactJS Crash Course" by Traversy Media: 
